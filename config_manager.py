@@ -4,11 +4,7 @@ import os
 CONFIG_FILE = "settings.json"
 
 DEFAULT_CONFIG = {
-    "access_key": "XU0OWIYTUILRQIQY4XLS",
-    "secret_key": "lok9QWZXjHp53GhhZqycFQVQeQpdjw0z1tJrT2m1",
-    "endpoint": "obsv3.zong-hpcc-isb.zongcloud.com.pk",
-    "bucket": "imranbucket",
-    "upload_folder": "uploads"
+  
 }
 
 def load_config():
